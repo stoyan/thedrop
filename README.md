@@ -1,2 +1,4 @@
-# thedrop
-a mess just like my desktop
+# the drop
+
+A place to drop random bits and bobs
+
